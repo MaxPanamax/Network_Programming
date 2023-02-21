@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\HW_1_2_Network_Programming\HW_1_2_Network_Programming\bin\Debug\HW_1_2_Network_Programming.exe.config
+C:\Users\User\source\repos\HW_1_2_Network_Programming\HW_1_2_Network_Programming\bin\Debug\HW_1_2_Network_Programming.exe
+C:\Users\User\source\repos\HW_1_2_Network_Programming\HW_1_2_Network_Programming\bin\Debug\HW_1_2_Network_Programming.pdb
+C:\Users\User\source\repos\HW_1_2_Network_Programming\HW_1_2_Network_Programming\obj\Debug\HW_1_2_Network_Programming.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\HW_1_2_Network_Programming\HW_1_2_Network_Programming\obj\Debug\HW_1_2_Network_Programming.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\HW_1_2_Network_Programming\HW_1_2_Network_Programming\obj\Debug\HW_1_2_Network_Programming.Form1.resources
+C:\Users\User\source\repos\HW_1_2_Network_Programming\HW_1_2_Network_Programming\obj\Debug\HW_1_2_Network_Programming.Properties.Resources.resources
+C:\Users\User\source\repos\HW_1_2_Network_Programming\HW_1_2_Network_Programming\obj\Debug\HW_1_2_Network_Programming.csproj.GenerateResource.cache
+C:\Users\User\source\repos\HW_1_2_Network_Programming\HW_1_2_Network_Programming\obj\Debug\HW_1_2_Network_Programming.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HW_1_2_Network_Programming\HW_1_2_Network_Programming\obj\Debug\HW_1_2_Network_Programming.exe
+C:\Users\User\source\repos\HW_1_2_Network_Programming\HW_1_2_Network_Programming\obj\Debug\HW_1_2_Network_Programming.pdb
