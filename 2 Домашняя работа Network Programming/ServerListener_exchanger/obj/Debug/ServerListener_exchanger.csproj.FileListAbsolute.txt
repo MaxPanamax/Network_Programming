@@ -1,0 +1,12 @@
+C:\Users\User\Downloads\Network_Programming-main\Network_Programming-main\HomeWork3\ServerListener\bin\Debug\ServerListener.exe.config
+C:\Users\User\Downloads\Network_Programming-main\Network_Programming-main\HomeWork3\ServerListener\bin\Debug\ServerListener.exe
+C:\Users\User\Downloads\Network_Programming-main\Network_Programming-main\HomeWork3\ServerListener\bin\Debug\ServerListener.pdb
+C:\Users\User\Downloads\Network_Programming-main\Network_Programming-main\HomeWork3\ServerListener\obj\Debug\ServerListener_exchanger.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Network_Programming-main\Network_Programming-main\HomeWork3\ServerListener\obj\Debug\ServerListener_exchanger.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\Network_Programming-main\Network_Programming-main\HomeWork3\ServerListener\obj\Debug\ServerListener.FormLoginPassword.resources
+C:\Users\User\Downloads\Network_Programming-main\Network_Programming-main\HomeWork3\ServerListener\obj\Debug\ServerListener.FormMain.resources
+C:\Users\User\Downloads\Network_Programming-main\Network_Programming-main\HomeWork3\ServerListener\obj\Debug\ServerListener.Properties.Resources.resources
+C:\Users\User\Downloads\Network_Programming-main\Network_Programming-main\HomeWork3\ServerListener\obj\Debug\ServerListener_exchanger.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Network_Programming-main\Network_Programming-main\HomeWork3\ServerListener\obj\Debug\ServerListener_exchanger.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Network_Programming-main\Network_Programming-main\HomeWork3\ServerListener\obj\Debug\ServerListener.exe
+C:\Users\User\Downloads\Network_Programming-main\Network_Programming-main\HomeWork3\ServerListener\obj\Debug\ServerListener.pdb
