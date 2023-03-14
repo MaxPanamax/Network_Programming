@@ -1,0 +1,21 @@
+C:\Users\HP\Documents\GitHub\Network_Programming\HomeWork9\HomeWork1-2\bin\Debug\HomeWork1-2.exe.config
+C:\Users\HP\Documents\GitHub\Network_Programming\HomeWork9\HomeWork1-2\bin\Debug\HomeWork1-2.exe
+C:\Users\HP\Documents\GitHub\Network_Programming\HomeWork9\HomeWork1-2\bin\Debug\HomeWork1-2.pdb
+C:\Users\HP\Documents\GitHub\Network_Programming\HomeWork9\HomeWork1-2\obj\Debug\HomeWork1-2.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GitHub\Network_Programming\HomeWork9\HomeWork1-2\obj\Debug\HomeWork1_2.Properties.Resources.resources
+C:\Users\HP\Documents\GitHub\Network_Programming\HomeWork9\HomeWork1-2\obj\Debug\HomeWork1-2.csproj.GenerateResource.cache
+C:\Users\HP\Documents\GitHub\Network_Programming\HomeWork9\HomeWork1-2\obj\Debug\HomeWork1-2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\Network_Programming\HomeWork9\HomeWork1-2\obj\Debug\HomeWork1-2.exe
+C:\Users\HP\Documents\GitHub\Network_Programming\HomeWork9\HomeWork1-2\obj\Debug\HomeWork1-2.pdb
+C:\Users\HP\Documents\GitHub\Network_Programming\HomeWork9\HomeWork1-2\obj\Debug\HomeWork1_2.FormMain.resources
+C:\Users\User\Desktop\домашняя работа\Сетевое программрование материалы\Домашняя работа сетевое прогрраммирование\5. Домашняя работа Поноаренко М.Б\HW1-2\bin\Debug\HomeWork1-2.exe.config
+C:\Users\User\Desktop\домашняя работа\Сетевое программрование материалы\Домашняя работа сетевое прогрраммирование\5. Домашняя работа Поноаренко М.Б\HW1-2\bin\Debug\HomeWork1-2.exe
+C:\Users\User\Desktop\домашняя работа\Сетевое программрование материалы\Домашняя работа сетевое прогрраммирование\5. Домашняя работа Поноаренко М.Б\HW1-2\bin\Debug\HomeWork1-2.pdb
+C:\Users\User\Desktop\домашняя работа\Сетевое программрование материалы\Домашняя работа сетевое прогрраммирование\5. Домашняя работа Поноаренко М.Б\HW1-2\obj\Debug\HomeWork1-2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\домашняя работа\Сетевое программрование материалы\Домашняя работа сетевое прогрраммирование\5. Домашняя работа Поноаренко М.Б\HW1-2\obj\Debug\HomeWork1-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\домашняя работа\Сетевое программрование материалы\Домашняя работа сетевое прогрраммирование\5. Домашняя работа Поноаренко М.Б\HW1-2\obj\Debug\HomeWork1_2.FormMain.resources
+C:\Users\User\Desktop\домашняя работа\Сетевое программрование материалы\Домашняя работа сетевое прогрраммирование\5. Домашняя работа Поноаренко М.Б\HW1-2\obj\Debug\HomeWork1_2.Properties.Resources.resources
+C:\Users\User\Desktop\домашняя работа\Сетевое программрование материалы\Домашняя работа сетевое прогрраммирование\5. Домашняя работа Поноаренко М.Б\HW1-2\obj\Debug\HomeWork1-2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\домашняя работа\Сетевое программрование материалы\Домашняя работа сетевое прогрраммирование\5. Домашняя работа Поноаренко М.Б\HW1-2\obj\Debug\HomeWork1-2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\домашняя работа\Сетевое программрование материалы\Домашняя работа сетевое прогрраммирование\5. Домашняя работа Поноаренко М.Б\HW1-2\obj\Debug\HomeWork1-2.exe
+C:\Users\User\Desktop\домашняя работа\Сетевое программрование материалы\Домашняя работа сетевое прогрраммирование\5. Домашняя работа Поноаренко М.Б\HW1-2\obj\Debug\HomeWork1-2.pdb
